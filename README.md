@@ -39,12 +39,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="stackoverflow logo"  />
 </div>
-
-<p></p>
-
 <div align="start">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayerahamadtayef&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false"alt="jubayerahamadtayef" /></p>
-<img align="right" height="150" src="https://media.tenor.com/9IqMW1E3Ci4AAAAM/robot-android.gif" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayerahamadtayef&show_icons=true&locale=en&hide_border=false&theme=highcontrast" alt="jubayerahamadtayef" /></p>
 
