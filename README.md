@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Jubayer Ahamad Tayef and I'm an Android App Developer from Bangladesh...</h2>
+<h1 align="center">Hi 👋! My name is Jubayer Ahamad Tayef. <br> I'm an Android App Developer from Bangladesh...</h1>
+
+###
+
+
+<p align="start"> <img src="https://komarev.com/ghpvc/?username=jubayerahamadtayef&label=Profile%20views&theme=light&style=flat&hide_border=false" alt="jubayerahamadtayef" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubayerahamadtayef" alt="jubayerahamadtayef" /></a> </p>
 
 ###
 
@@ -11,7 +18,7 @@
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif"  />
 
-## My Skills:
+<h3 align="left">My Skills:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
@@ -40,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
 </div>
 
-## Contact with me:
+### Contact with me:
 <div align="left">
   <a href="https://wa.me/8801891484760" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
@@ -58,11 +65,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jubayerahamadtayef/jubayerahamadtayef/output/snake.svg" alt="Snake animation" />
-
-###
