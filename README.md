@@ -11,8 +11,7 @@
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif"  />
 
-###
-
+## My Skills:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
@@ -41,8 +40,7 @@
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
 </div>
 
-###
-
+## Contact with me:
 <div align="left">
   <a href="https://wa.me/8801891484760" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
