@@ -3,7 +3,7 @@
 ###
 
 
-<p align="start"> <img src="https://komarev.com/ghpvc/?username=jubayerahamadtayef&label=Profile%20views&theme=light&style=flat&hide_border=false" alt="jubayerahamadtayef" /> </p>
+<p align="start"> <img src="https://komarev.com/ghpvc/?username=jubayerahamadtayef&label=Profile%20views&theme=chartreuse-dark&style=flat&hide_border=false" alt="jubayerahamadtayef" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubayerahamadtayef" alt="jubayerahamadtayef" /></a> </p>
 
@@ -65,3 +65,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jubayerahamadtayef/jubayerahamadtayef/output/github-snake-dark.svg" alt="Snake animation" />
