@@ -1,4 +1,4 @@
-![icons8-facebook-messenger](https://github.com/user-attachments/assets/c2676874-c657-401f-9ba9-83a86b8d357d)### 👋 About Me
+### 👋 About Me
 I’m Jubayer Ahamad Tayef, an Android App Developer from Bangladesh. I am passionate about creating efficient and user-friendly mobile applications. 
 
 🌱 **Currently Exploring:** Jetpack Compose.
