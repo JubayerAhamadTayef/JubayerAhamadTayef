@@ -8,7 +8,7 @@
 
 <h3 align="center">🎓 Education</h3>
 
-- **Diploma in Engineering** in **Computer Technology** from Moulvibazar Polytechnic Institute (2024).
+- **Diploma in Engineering** in **Computer Technology** from Moulvibazar Polytechnic Institute (2024). <a href="https://drive.google.com/file/d/11u6jl3Vi5YkKMN7cdAePqYXf0IVd0G5I/view?usp=sharing" target="_blank"><b>View or Download My Result</b></a>
 - Completed a **3-month industrial attachment** in **Android App Development with Kotlin** at Creative IT Institute, Mirpur Branch (2024).
 
 ---
@@ -22,7 +22,7 @@
 
 <h3 align="center">📄 Resume</h3>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1LLxJGvAN0fL_FH7y-YiDoPjhu8gCedJ7/view" target="_blank"><b>View or Download My Resume</b></a>
+  <a href="https://drive.google.com/file/d/18HruRwEZ1UIpbexETlzLtM29TKqgDd1p/view?usp=sharing" target="_blank"><b>View or Download My Resume</b></a>
 </p>
 
 ---
