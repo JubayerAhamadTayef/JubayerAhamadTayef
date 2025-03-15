@@ -22,7 +22,7 @@
 
 <h3 align="center">📄 Resume</h3>
 <p align="center">
-  <a href="https://drive.google.com/file/d/18HruRwEZ1UIpbexETlzLtM29TKqgDd1p/view?usp=sharing" target="_blank"><b>View or Download My Resume</b></a>
+  <a href="https://drive.google.com/file/d/1N8iGyzhEG4YmpF36lL0-6l6-DY69aZ5U/view?usp=sharing" target="_blank"><b>View or Download My Resume</b></a>
 </p>
 
 ---
