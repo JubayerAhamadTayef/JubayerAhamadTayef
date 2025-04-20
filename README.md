@@ -169,7 +169,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://m.me/jubayerahmadtayef" target="_blank">
+        <a href="https://m.me/JubayerAhamadTayef" target="_blank">
           <img src="https://github.com/user-attachments/assets/072bad56-8bcf-4644-ab61-e4fdee09ffc9" height="45" alt="Messenger Logo" />
           <div>Messenger</div>
         </a>
@@ -187,13 +187,13 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://linkedin.com/in/jubayerahamadtayef" target="_blank">
+        <a href="https://linkedin.com/in/JubayerAhamadTayef" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn Logo" />
           <div>LinkedIn</div>
         </a>
       </td>
       <td align="center">
-        <a href="https://www.facebook.com/jubayerahmadtayef?mibextid=ZbWKwL" target="_blank">
+        <a href="https://www.facebook.com/JubayerAhamadTayef" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="Facebook Logo" />
           <div>Facebook</div>
         </a>
